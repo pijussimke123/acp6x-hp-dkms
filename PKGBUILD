@@ -10,7 +10,6 @@ license=('GPL')
 depends=('dkms')
 conflicts=('acp6x-hp-dkms-git')
 source=("${pkgname}-${pkgver}.tar.gz::${url}/archive/refs/tags/v${pkgver}.tar.gz")
-sha256sums=('bfc487b9ad13b66eda8eecea225b6916cb70e7f6dec31731afe7caa6d910c0fa')
 
 package() {
     cd "${pkgname}-${pkgver}"
