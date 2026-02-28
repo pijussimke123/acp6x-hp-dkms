@@ -1,4 +1,4 @@
-# Makefile for acp6x-omen-dkms
+# Makefile for acp6x-hp-dkms
 
 obj-m += snd-pci-acp6x.o snd-soc-acp6x-mach.o
 
