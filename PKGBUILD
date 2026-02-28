@@ -1,7 +1,7 @@
 # Original maintainer: FT <worldoptimizer@gmail.com>
 # Fork: Pijus <microbios75@gmail.com>
 pkgname=acp6x-hp-dkms
-pkgver=1.0
+pkgver=1.1
 pkgrel=2
 pkgdesc="Patched AMD Audio Driver for HP 255R G10"
 arch=('x86_64')
